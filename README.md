@@ -6,4 +6,5 @@
 # 以下提供簡單的演示
 </br>這是生成器訓練5次的結果:![A](https://github.com/yuyangdanny/depth_map-generator/blob/master/image/traning5.PNG)
 </br>這是生成器訓練14次的結果:![A](https://github.com/yuyangdanny/depth_map-generator/blob/master/image/traning14.PNG)
-</br>這是對未訓練的raw data生成的結果:![A](https://github.com/yuyangdanny/depth_map-generator/blob/master/image/predict.PNG)
+</br>這是對未訓練的raw data生成的結果:
+</br>![A](https://github.com/yuyangdanny/depth_map-generator/blob/master/image/predict.PNG)

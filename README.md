@@ -4,7 +4,7 @@
 </br>可以降低硬體設備成本，亦可使室外的影響降低，以及使偵測距離更遠。
 </br>
 # method:
-</br>&nbsp利用GAN網路在kitti數據集上生成深度圖
+</br> li  利用GAN網路在kitti數據集上生成深度圖
 </br>將我的預訓練checkpoint放在這:[pre-trained checkpoint](https://mega.nz/fm/Mo92Va5I "Title") 
 </br>
 # Discriminator:
